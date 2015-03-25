@@ -1,0 +1,355 @@
+/*PROYECTO*/
+[class*="col-"] {
+	padding: 0 ;
+	margin-bottom: 0;
+
+}
+
+.container{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+nav{
+	text-align: center;
+	padding: 5.56%;
+}
+
+a {
+color: #88887E;
+text-decoration: none;
+font-size: 17px;
+font-family: sans-serif;
+padding: 	0 3%;
+
+}
+.logo{
+	width: 75%;
+	margin: 0 auto;
+  font-size: 0px;
+}
+img{
+width: 100%;
+}
+.fondo{
+
+font-size: 0px;
+}
+.fondo img{
+	height: 100%
+}
+.row {
+	padding: 0;
+	margin:0;
+}
+.text{
+	background-color: rgb(242, 242, 242);
+	color: rgb(145, 138, 138);
+	padding: 5% 28%;
+	font-size: 17px;
+}
+.ficha{
+  width: 50%;
+	margin: 0 auto;
+	padding:6% 0;
+}
+
+.subtitle{
+	text-align: center;
+}
+.foto{
+	width:60%;
+	margin: 0 auto;
+}
+h4{
+	padding: 2%;
+	font-size: 20px;
+	color: rgb(132, 127,127);
+}
+.lema{
+	padding: 2%;
+	text-align: center;
+	color: rgb(179, 176, 176); 
+}
+.ficha-2{
+	background-color: gray;
+	background-image: url(../img/IMG_9246.jpg);
+	height: 370px;
+}
+.ficha-3 {
+	background-color: grey;
+	height: 370px;
+	background-image: url(../img/metodologia.jpg);
+	position: relative;
+
+}
+.logo-2{
+	position: absolute;
+	top: 17%;
+	left: 45%;
+}
+.texto-2{
+	position: absolute;
+	top: 38%;
+	left: 35%;
+	color: white;
+	font-size: 22px;
+
+}
+.texto-3{
+	position: absolute;
+	top: 55%;
+	text-align: center;
+	color: white;
+	padding: 0 14%;
+}
+.informe{
+	text-align: center;
+	padding: 4% 0% 2% 0%;
+	font-size: 25px;
+	color: rgb(126, 121, 121);
+}
+.text-1{
+	padding: 0 22%;
+text-align: center;
+color: rgb(126, 121, 121);
+
+}
+.content-1{
+   padding: 50px;
+}
+.foto-3{
+	font-size: 0px;
+	width: 70%;
+	margin: 0 auto;
+	/*height: 158px;
+*/
+}
+.title {
+	
+height: 75px;
+text-align: center;
+padding: 8% 4%;
+color: rgb(111, 148, 111);
+font-size: 22px;
+}
+.lema-2{
+	text-align: center;
+	color: rgb(153, 151, 151);
+
+}
+/*PROYECTO*/
+.proyecto{
+		background-color: rgb(94, 128, 57);
+}
+.content-2{
+	/*height: 300px;*/
+ /* padding-bottom: 10%;*/
+}
+.title-4 {
+	/*height: 100px;
+	background-color: white;*/
+	font-size: 56px;
+	color: rgb(240, 239, 239);
+	padding: 5% 74% 4% 8%;
+}
+	.foto-4{
+	
+		width: 67.2%;
+		 padding: 0% 0% 14.9% 0%; 
+		font-size: 0px;
+		margin: 0 auto;
+}
+	.title-5{
+		font-size: 14px;
+		color: rgb(240, 239, 239);
+		text-align: center;
+		padding: 5% 23% 0% 23%;
+}
+	.subtitle-5{
+		font-size: 17px;
+		text-align: center;
+		padding: 0% 32%;
+		color: rgb(240, 239, 239);
+}
+
+	.text-5{
+		/*padding: 5% 20% 9.4% 20%;*/
+		padding: 5% 20% 24.3% 20%;
+		text-align: center;
+		color: rgb(221, 219, 219);
+	}
+	.foto-5 {
+		width: 67.2%;
+		 padding: 0% 0% 14.9% 0%; 
+		font-size: 0px;
+		margin: 0 auto;
+	}
+	/*EQUIPO*/
+	.equipo-1 {
+		font-size: 41px;
+		padding: 4% 70% 4% 8%;
+		color: rgb(94, 128, 57);
+	}
+	.ficha-6{
+		/*background-color: gray;*/
+		height: 480px;
+	}
+ .foto-6{
+ 	width: 40%;
+	margin: 0 auto;
+	font-size: 0px;
+	}
+	.title-6{
+		font-size: 19px;
+		text-align: center;
+		 padding-top: 4%;
+		color: rgba(0, 0, 0, 0.77);
+
+	}
+	.subtitle-6{
+		text-align: center;
+		font-size: 15px;
+		color: rgba(157, 146, 146, 0.7);
+		padding: 0% 34%;
+
+		}
+	.lema-6{
+		text-align: center;
+    padding: 4% 13% 4% 13%;
+    color: rgba(157, 146, 146, 0.7);
+	}
+  .redes{
+  	padding: 0% 32% 0% 41%;
+  }
+  .foto-7{
+  	width: 22%;
+		padding: 2%;
+		float: left;
+		}
+		/*BLOGS*/
+  .blogs{
+  	/*background-color: rgba(190, 184, 184, 0.29);*/
+  	background-image: url(../img/Blog.jpg..);
+  }
+  .blog-1{
+  	font-size: 41px;
+	padding: 4% 83% 4% 8%;
+	color: rgb(155, 150, 150);
+  }
+  /*.ficha-7{
+  	height: 250px;
+  }*/
+ .foto-8{
+ padding: 6.5% 7% 5% 17%;
+ font-size: 0px;
+}
+.slider-1{
+	width: 8%;
+	margin-left: 6%;
+
+}
+.slider-2{
+	width: 8%;
+	margin-left: 90%;
+}
+.title-8{
+  padding: 0% 14% 0% 17%;
+  color: rgb(155, 150, 150);
+}
+.subtitle-8{
+	padding: 2% 17%;
+	color: rgb(155, 150, 150);
+}
+.text-8{
+	padding: 4% 3% 4.6% 18%;
+	color: rgb(155, 150, 150);
+}
+.title-9{
+	padding: 11% 17% 0%;
+	color: rgb(155, 150, 150);
+}
+.subtitle-9{
+	padding: 2% 17%;
+	color: rgb(155, 150, 150);
+}
+.text-9{
+	padding: 4% 3% 4% 18%;
+	color: rgb(155, 150, 150);
+}
+.title-10{
+	padding: 0% 14% 0% 17%;
+	color: rgb(155, 150, 150);
+}
+.subtitle-10{
+	padding: 2% 17%;
+	color: rgb(155, 150, 150);
+}
+.text-10{
+	padding: 4% 3% 4% 18%;
+	color: rgb(155, 150, 150);
+}
+/*REDES SCIALES*/
+.facebook{
+	background-color: rgb(77,77,77);
+	color: white;
+	padding: 5%;
+}
+.red{
+	padding: 15%;
+}
+.icon{
+width: 22%;
+padding-top: 39%;
+margin-left: auto;
+padding: 26% 5% 4%;
+}
+
+.redes-sociales{
+	border: 1px solid white;
+	position: relative;
+}
+.red span{
+	font-size: 29px;
+}
+.footer{
+	background-color: rgb(242, 242, 242);
+	/*height: 100px;*/
+}
+.logo-3{
+width: 15%;
+font-size: 0px;
+float: left;
+}
+.content-10{
+	padding: 8% 5% 13% 16%;
+}
+.text-11{
+	padding: 2% 18%;
+}
+.text-11 p{
+	color:rgb(194, 191, 191);
+}
+.text-11 h6{
+	color: rgb(229, 181, 31)
+}
+.content-11{
+	padding: 10% 5% 10% 37%;
+	color:rgb(144, 143, 143);
+}
+/*a:hover{
+	color: green;
+	cursor: pointer;
+
+}*/
+.overlay{
+	position: absolute;
+	width: 100%;
+	top: 0%;
+	/*background-color: rgba(0, 0, 0, 0.1);*/
+	min-height: 200px;
+}
+.overlay:hover {
+
+	background-color: rgba(0, 0, 0, 0.3);
+}
